@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sơn</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h1 align="center">Hi 👋, My Name is Thanh Sơn</h1>
+<h3 align="center">I am backend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
