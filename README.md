@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, My Name is Thanh Sơn</h1>
-<h3 align="center">I am backend developer from VietNam</h3>
+<h1 align="center">Hi 👋, My Name is Van Nguyen</h1>
+<h3 align="center">I am from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
 - 🌱 I’m currently learning **Spring,ReactJS,Boostrap,ExpressJS**
+- 🌱  I am experienced with algorithms
 
-- 📫 How to reach me **thanhnguyensonjqk@gmail.com**
-
-- ⚡ Fun fact **I think I am HandSome :)))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
