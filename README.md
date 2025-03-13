@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
 - 🌱 I’m currently learning **Spring,ReactJS,Boostrap,ExpressJS**
-- 🌱  I am experienced with algorithms and I have Rating CodeForce 1886 && Leetcode 1800
+- 🌱  I am loveV VIETNAM
 
 
 
