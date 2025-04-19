@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot 3,ReactJS,**
-- 🌱  I am love C++,Java
+- 🌱 I’m currently learning **Spring Boot 3,React JS, **
+- 🌱  I am love C++,Java, DataStruct and Algorithm!
 
 
 
