@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Thanh Sơn</h1>
-<h3 align="center">I want to become a Java Backend Programmer 🤡</h3>
+<h3 align="center">I am a Java Backend Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
