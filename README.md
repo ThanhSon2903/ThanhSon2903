@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, My Name is Thanh Sơn</h1>
+<h1 align="center">Hilo 👋, My name is Son</h1>
 <h3 align="center">I'm a Java Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot 3,React JS, **
--  I am love C++,Java, DataStruct and Algorithm!
+- 🧧I have experience with Spring framework and ReactJs library
+- 🎨I like C++, Java, DSA👁
 
 
 
