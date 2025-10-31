@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhson2903&label=Profile%20views&color=0e75b6&style=flat" alt="thanhson2903" /> </p>
 
 - 🧧I have experience with Spring framework and ReactJs library
-- 🎨I like C++, Java, DSA👁
+- 🎨I like C/C++, Java, Python, Data Structures and Algorithms👓
 
 
 
